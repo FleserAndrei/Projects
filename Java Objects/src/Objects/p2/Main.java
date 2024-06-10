@@ -1,4 +1,4 @@
-package com.nagarro.rl.week02.p2;
+package Objects.p2;
 
 public class Main {
     public static void main(String[] args) {

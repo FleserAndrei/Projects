@@ -1,4 +1,4 @@
-package com.nagarro.rl.week02.p3;
+package Objects.p3;
 
 public class ChildClass extends ParentClass {
 

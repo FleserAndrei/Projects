@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a403029-0c9c-4816-bb91-6c6732e3a1a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/OOP Principles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p1/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p1/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p1/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p1/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p1/Ork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p1/Vampire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p2/Musical.drawio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/Band.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/BassGuitarist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/CDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/Drummer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/Drumset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/Guitarist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/LeadGuitarist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/MusicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/RythmGuitarist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP Principles/src/OOP/week03/p3/iPod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Java/week1-feedback1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nagarro/rl/week02/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/p1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nagarro/rl/week02/p1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/p1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nagarro/rl/week02/p1/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/p1/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nagarro/rl/week02/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/p2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nagarro/rl/week02/p2/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/p2/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nagarro/rl/week02/p3/ChildClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/p3/ChildClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nagarro/rl/week02/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/p3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nagarro/rl/week02/p3/ParentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/p3/ParentClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2hgsv38BN3cifnvKQsmGG0w6yE9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jetuj/Desktop/GitProjects/Projects/Java Objects"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a403029-0c9c-4816-bb91-6c6732e3a1a8" name="Changes" comment="" />
+      <created>1718027281427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718027281427</updated>
+    </task>
+    <servers />
+  </component>
+</project>

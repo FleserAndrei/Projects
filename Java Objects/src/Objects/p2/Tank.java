@@ -1,4 +1,4 @@
-package com.nagarro.rl.week02.p2;
+package Objects.p2;
 
 import java.util.Stack;
 
